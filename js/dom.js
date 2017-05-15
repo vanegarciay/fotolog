@@ -17,4 +17,5 @@
     elem_p.appendChild(elem_strong);
     elem_p.appendChild(txt_05);
    }
+   
     
